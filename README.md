@@ -15,7 +15,20 @@ The project aims to:
 - Identify the most significant factors influencing customer churn.
 
 ---
+## Streamlit
+I have done a beautiful and lightweight **Streamlit web application** for predicting **customer churn** probability using a machine learning model.  
 
+---
+
+## 🚀 Features
+- Predicts if a customer will **churn** or **stay**.
+- Displays **churn probability (%)** using an attractive **speedometer (gauge meter)**.
+- **Custom header** with title and quick access buttons.
+- **Beautiful light theme** with dynamic CSS styling.
+- **Footer fixed** at the bottom showing copyright.
+- **Responsive layout** using Streamlit and Plotly.
+
+---
 ## 🚀 Steps to Run the Project
 
 1. **Clone the Repository**
@@ -45,6 +58,11 @@ Here’s the `README.md` you can directly use for your repository:
      - Model evaluation
      - Feature importance analysis
 
+5. **Run the app**:
+   ```bash
+   streamlit run Strealit.py
+   ```
+
 ---
 
 ## 📂 Project Structure
@@ -58,11 +76,21 @@ customer-churn-prediction/
 │
 ├── EDA.ipynb
 │
+├── streamlit run Strealit.py    # Streamlit Application
+│
 ├── README.md                   # Project documentation
 │
 └── requirements.txt            # Python libraries needed
 ```
+---
 
+## 📎 Links
+- [🔗 GitHub Repository](https://github.com/BSHK57/customer-churn-prediction)
+- [📄 Dataset Source](https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction/data)
+- [Strealit](https://customer-churn-prediction-shk.streamlit.app/)
+__Try to restart if it already dead__
+
+---
 ---
 
 ## 📈 Model Overview

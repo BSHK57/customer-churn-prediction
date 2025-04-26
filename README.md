@@ -35,10 +35,6 @@ I have done a beautiful and lightweight **Streamlit web application** for predic
    ```bash
    git clone https://github.com/BSHK57/customer-churn-prediction.git
    cd customer-churn-prediction
-Awesome — you want the **code inside one Jupyter Notebook** and a **separate clean `README.md`**.  
-Here’s the `README.md` you can directly use for your repository:
-
----
 
 2. **Install Required Libraries**
    ```bash

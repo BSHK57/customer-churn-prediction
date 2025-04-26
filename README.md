@@ -83,7 +83,7 @@ customer-churn-prediction/
 ## 📎 Links
 - [🔗 GitHub Repository](https://github.com/BSHK57/customer-churn-prediction)
 - [📄 Dataset Source](https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction/data)
-- [Strealit](https://customer-churn-prediction-shk.streamlit.app/)
+- [Streamlit](https://customer-churn-prediction-shk.streamlit.app/)
 __Try to restart if it already dead__
 
 ---

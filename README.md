@@ -27,34 +27,6 @@ Here’s the `README.md` you can directly use for your repository:
 
 ---
 
-# 📄 README.md
-
-```markdown
-# Customer Churn Prediction
-
-## 📌 Objective
-Predict whether a customer will discontinue a subscription-based service based on their historical data.
-
-We analyze factors like:
-- Usage patterns
-- Demographic details
-- Subscription duration
-- Other important features
-
-The project aims to:
-- Build an accurate churn prediction model.
-- Identify the most significant factors influencing customer churn.
-
----
-
-## 🚀 Steps to Run the Project
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/your-username/customer-churn-prediction.git
-   cd customer-churn-prediction
-   ```
-
 2. **Install Required Libraries**
    ```bash
    pip install -r requirements.txt
@@ -111,5 +83,4 @@ customer-churn-prediction/
 - Easy to follow with comments and section headers.
 - Includes basic Exploratory Data Analysis (EDA).
 - Focused on real-world practical churn prediction.
-
 ---
